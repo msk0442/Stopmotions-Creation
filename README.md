@@ -17,6 +17,13 @@ An elite, Next.js 14-powered Web App that transforms simple text directly into s
 
 <br/>
 
+## 🎯 What Does This App Do?
+**Stopmotions Creation** is a specialized tool designed to democratize animation. It uses advanced Generative AI models to plan a storyboard and generate hyper-consistent, frame-by-frame images based on a user's text prompt. Once the frames are generated, the app compiles them into a seamless, cinematic **stop-motion video** right in your browser, ready to be downloaded and shared. 
+
+Whether you're a storyteller, marketer, or educator, you can create immersive visual narratives in seconds without needing a production studio!
+
+---
+
 ## ✨ Core Features
 - **Modern & Immersive UI**: Complete Dark-Mode-First approach utilizing Glassmorphism and Neon accents. Feel the $100M UX.
 - **Micro-Interactions Built-in**: Every hover, click, and page load features carefully tuned Framer Motion 3D transforms.
@@ -85,10 +92,11 @@ Visit `http://localhost:3000` to see your studio.
 
 ## 👨‍💻 Meet the Developer
 
-Handcrafted with passion and a pixel-perfect ethos by **Muhammad Schees**.
+Handcrafted with passion and a pixel-perfect ethos by **Muhammad Schees**, an expert **GenAI Professional**.
 
 - GitHub: [msk0442](https://github.com/msk0442)
-- Focus: Senior Full-Stack Engineering, Core UX/UI Architectural Design.
+- LinkedIn: [Muhammad Schees](https://www.linkedin.com/in/muhammadschees/)
+- Focus: GenAI Professional, Senior Full-Stack Engineering, Core UX/UI Architectural Design.
 
 ---
 
